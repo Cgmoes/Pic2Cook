@@ -60,6 +60,11 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <None Remove="db\SQL Statements\AggregateQuery.sql" />
+	  <None Remove="db\SQL Statements\CreateTables.sql" />
+	</ItemGroup>
+
+	<ItemGroup>
 		<PackageReference Include="Microsoft.Maui.Controls" Version="$(MauiVersion)" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.0" />
 	</ItemGroup>
