@@ -1,0 +1,12 @@
+﻿IF NOT EXISTS(SELECT * FROM sys.databases WHERE name = 'Pic2Cook')
+BEGIN
+	CREATE DATABASE Pic2Cook;
+END
+GO
+
+USE Pic2Cook;
+GO
+
+IF SCHEMA_ID(N'CookBook') IS NULL
+	EXEC(N'CREATE SCHEMA CookBook');
+GO
