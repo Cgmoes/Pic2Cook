@@ -7132,7 +7132,7 @@
         }
       }
     },
-    "net9.0-android35.0/iossimulator-x64": {
+    "net9.0-android35.0/ios-arm64": {
       "GoogleGson/2.11.0.3": {
         "type": "package",
         "dependencies": {
@@ -15469,7 +15469,7 @@
         }
       }
     },
-    "net9.0-ios18.2/iossimulator-x64": {
+    "net9.0-ios18.2/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -17881,7 +17881,7 @@
         }
       }
     },
-    "net9.0-maccatalyst18.2/iossimulator-x64": {
+    "net9.0-maccatalyst18.2/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -20839,7 +20839,7 @@
         }
       }
     },
-    "net9.0-windows10.0.19041/iossimulator-x64": {
+    "net9.0-windows10.0.19041/ios-arm64": {
       "Microsoft.Extensions.Configuration/9.0.0": {
         "type": "package",
         "dependencies": {
@@ -26400,24 +26400,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Creighton\\.nuget\\packages\\": {},
+    "C:\\Users\\moise\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Creighton\\Desktop\\Recipe App\\Pic2Cook\\Pic2Cook.csproj",
+      "projectUniqueName": "C:\\Users\\moise\\Desktop\\Pic2Cook\\Pic2Cook\\Pic2Cook.csproj",
       "projectName": "Pic2Cook",
-      "projectPath": "C:\\Users\\Creighton\\Desktop\\Recipe App\\Pic2Cook\\Pic2Cook.csproj",
-      "packagesPath": "C:\\Users\\Creighton\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Creighton\\Desktop\\Recipe App\\Pic2Cook\\obj\\",
+      "projectPath": "C:\\Users\\moise\\Desktop\\Pic2Cook\\Pic2Cook\\Pic2Cook.csproj",
+      "packagesPath": "C:\\Users\\moise\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\moise\\Desktop\\Pic2Cook\\Pic2Cook\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Creighton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\moise\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -26628,7 +26628,7 @@
       "android-x64": {
         "#import": []
       },
-      "iossimulator-x64": {
+      "ios-arm64": {
         "#import": []
       },
       "maccatalyst-x64": {
