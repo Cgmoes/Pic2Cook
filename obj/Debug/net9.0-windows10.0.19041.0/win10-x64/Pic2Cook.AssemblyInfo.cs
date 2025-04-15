@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pic2Cook")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+cdd1581d762df06f36de3b1f3e6434a44aeda647")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+5c770e3239791965e684583d3fab5e8bd78e90e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pic2Cook")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pic2Cook")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
