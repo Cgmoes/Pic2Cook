@@ -1,6 +1,4 @@
-﻿using Android.Hardware.Camera2;
-
-namespace Pic2Cook
+﻿namespace Pic2Cook
 {
     public partial class MainPage : ContentPage
     {
@@ -13,9 +11,6 @@ namespace Pic2Cook
 
         private void OnScanFridgeClicked(object sender, EventArgs e)
         {
-            if (Permissions.CheckStatusAsync<Permissions.Camera>  PermissionStatus.Unknown) 
-            {
-            }
         }
     }
 
