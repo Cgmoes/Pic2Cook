@@ -6,13 +6,13 @@
     "target.prop.ro.product.manufacturer": "Google",
     "target.prop.ro.product.model": "sdk_gphone64_x86_64",
     "target.prop.ro.product.cpu.abi": "x86_64",
-    "deploy.error.code": "",
+    "deploy.error.code": "XA0129",
     "deploy.tool": "xamarin.sync",
-    "deploy.result": "Success",
+    "deploy.result": "Failed",
     "deploy.supports.fastdev": "True",
     "deploy.systemapp": "False",
-    "deploy.duration.ms": "39377",
-    "pii.deploy.error": "",
-    "pii.deploy.file": ""
+    "deploy.duration.ms": "56636",
+    "pii.deploy.error": "Error deploying \u0027{0}\u0027.\nPlease set the \u0027EmbedAssembliesIntoApk\u0027 MSBuild property to \u0027true\u0027 to disable Fast Deployment in the Visual Studio project property pages, or edit the project file in a text editor.",
+    "pii.deploy.file": "files/.__override__/x86_64/Mono.Android.pdb"
   }
 }
